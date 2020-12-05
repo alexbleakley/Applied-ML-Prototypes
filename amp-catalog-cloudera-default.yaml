@@ -18,7 +18,7 @@ entries:
   tags:
     - explainability
     - xgboost
-  git_url: 'https://github.com/cloudera/CML_AMP_Churn_Prediction'
+  git_url: 'https://github.com/alexbleakley/CML_AMP_Churn_Prediction'
   is_prototype: true 
 
 - title: Airline Delay Prediction
